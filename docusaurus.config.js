@@ -23,7 +23,7 @@ const config = {
   url: 'https://github.com/MingMimi96/my-maker-blog-Mimi.git',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: 'my-maker-blog-Mimi/',
+  baseUrl: '/my-maker-blog-Mimi/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
