@@ -20,7 +20,7 @@ const config = {
   },
 
   // Set the production url of your site here
-  url: 'https://github.com/MingMimi96/my-maker-blog-Mimi.git',
+  url: 'https://MingMimi96.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/my-maker-blog-Mimi/',
