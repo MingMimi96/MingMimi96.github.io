@@ -10,7 +10,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'My Maker Journey-Mimi',
+  title: 'Mimi\'s Personal Website',
   tagline: 'Buidling, Learning, Creating-Mimi',
   favicon: 'img/favicon.ico',
 
